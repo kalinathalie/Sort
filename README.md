@@ -11,4 +11,4 @@ $ make
 ```
 $ ./exec'nome_da_ordenacao'Sort 'valor de 1-1000000'
 ```
-By: Lucas Nathaniel
+By: Kali Nathalie
